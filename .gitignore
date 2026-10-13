@@ -1,0 +1,6 @@
+build/
+.cache/
+.vscode/
+vm8080
+.clang-format
+compile_commands.json
